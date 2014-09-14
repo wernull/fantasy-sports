@@ -38,8 +38,9 @@
   },
   "keywords": [],
   "dependencies": {
+    "nodealytics": "0.0.6",
     "oauth": "jcreamer898/node-oauth",
-    "underscore": "^1.6.0",
-    "q": "^1.0.1"
+    "q": "^1.0.1",
+    "underscore": "^1.6.0"
   }
 }
